@@ -14,6 +14,7 @@ The corresponding tutorial can be found in the [Aztec docs here](https://docs.az
 
 <div align="center">
 
+[![Aztec.nr](https://img.shields.io/badge/Aztec.nr-v3.0.0-000000)](https://aztec.network)
 [![GitHub Repo stars](https://img.shields.io/github/stars/AztecProtocol/aztec-starter?logo=github&color=yellow)](https://github.com/AztecProtocol/aztec-starter/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/AztecProtocol/aztec-starter?logo=github&color=blue)](https://github.com/AztecProtocol/aztec-starter/network/members)
 [![Build](https://github.com/AztecProtocol/aztec-starter/actions/workflows/update.yaml/badge.svg)](https://github.com/AztecProtocol/aztec-starter/actions)
